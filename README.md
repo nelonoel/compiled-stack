@@ -49,7 +49,7 @@ yarn dev
 
 ##### Extras
 
+-   [tailwindcss-transitions plugin](//github.com/benface/tailwindcss-transitions)
 -   [ ] IntersectionObserver
 -   [ ] smooth scroll
 -   [ ] focus-visible
--   [ ] TailwindCSS transition plugin
