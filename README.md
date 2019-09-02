@@ -1,9 +1,8 @@
 <div align="center">
   <a href="https://github.com/nelonoel/compiled-stack">
-    <img alt="compiled-stack" src="https://raw.githubusercontent.com/nelonoel/compiled-stack/master/.github/logo.png" height="136px" />
+    <img alt="compiled-stack" src="https://raw.githubusercontent.com/nelonoel/compiled-stack/master/.github/logo.png" height="96px" />
   </a>
 </div>
-<br />
 
 <div align="center">
   <strong>Compiled tech stack starter template for lean web applications.</strong>
