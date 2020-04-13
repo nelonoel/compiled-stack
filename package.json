@@ -50,7 +50,7 @@
 		"svelte": "^3.0.0",
 		"svelte-preprocess": "^3.0.2",
 		"tailwindcss": "^1.1.2",
-		"tailwindcss-transitions": "^2.0.1"
+		"tailwindcss-transitions": "^2.2.0"
 	},
 	"husky": {
 		"hooks": {
