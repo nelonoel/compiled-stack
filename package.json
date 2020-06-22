@@ -26,7 +26,7 @@
 		"@babel/runtime": "^7.9.2",
 		"@babel/runtime": "^7.0.0",
 		"@fullhuman/postcss-purgecss": "^2.1.0",
-		"autoprefixer": "^9.6.1",
+		"autoprefixer": "^9.8.2",
 		"cssnano": "^4.1.10",
 		"husky": ">=1",
 		"lint-staged": ">=8",
